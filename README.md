@@ -81,6 +81,7 @@ me.say_hi()
 <br>
 
 ### ♾️ CI/CD Tools<br>
+![Drone CI](https://img.shields.io/badge/Drone_CI-212121?style=flat&logo=drone&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/Gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/Travis%20CI-%232B2F33.svg?style=flat&logo=travis&logoColor=white)
